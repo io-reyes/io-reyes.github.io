@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>SC</id>
+  <title>SC's next election</title>
+  <updated>2018-01-17T08:05:13.404615+00:00</updated>
+  <link href="https://when.vote/?SC" rel="alternate"/>
+  <link href="https://when.vote/feed/SC.atom" rel="self"/>
+  <generator uri="http://lkiesow.github.io/python-feedgen" version="0.5.1">python-feedgen</generator>
+  <entry>
+    <id>SC-election</id>
+    <title>New SC election: South Carolina Primary Election</title>
+    <updated>2018-01-17T08:05:13.404686+00:00</updated>
+    <content>Visit https://when.vote/?SC to see election date and registration deadlines</content>
+    <link href="https://when.vote/?SC" rel="alternate"/>
+    <published>2018-01-17T08:05:13.404720+00:00</published>
+  </entry>
+</feed>

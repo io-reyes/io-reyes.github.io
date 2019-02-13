@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    text-align: center
+}
+
+.removed {
+    display:none
+}
+
+p {
+    font-family: Tahoma, Geneva, sans-serif;
+    margin: 10px 0;
+}
+
+a:link,a:visited{
+    color:#3C3B6E;
+}
+
+a:hover,a:active{
+    color:#B22234;
+}
+
+#stateSelect,#about{
+    background-color: rgb(223, 222, 237);
+}
+
+#detectWarning{
+    background-color: rgb(255, 252, 191);
+    margin-top:0;
+    margin-bottom:0;
+}
+
+#stateInteractive{
+    margin-top:0;
+}
+
+#stateDropdown,optgroup.stateOptions{
+    font-size:16pt;
+}
+
+#electionData,#electionNameWrapper,#noData{
+    margin: 115px 0px;
+}
+
+#electionDate {
+    font-size: 350%;
+    text-transform: uppercase;
+}
+
+#electionName {
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+#electionDeadlines {
+    font-size: 150%;
+}
+
+#noDataWarning {
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+#about {
+    font-size: 75%;
+}
+
+/* from http://danielmall.com/articles/responsive-line-breaks/ */
+.rwd-line { display: block; }
+@media screen and (min-width: 768px){
+    .rwd-line { display: inline; }
+}

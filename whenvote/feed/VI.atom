@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>VI</id>
+  <title>VI's next election</title>
+  <updated>2017-12-19T08:05:34.826766+00:00</updated>
+  <link href="https://when.vote/?VI" rel="alternate"/>
+  <link href="https://when.vote/feed/VI.atom" rel="self"/>
+  <generator uri="http://lkiesow.github.io/python-feedgen" version="0.5.1">python-feedgen</generator>
+  <entry>
+    <id>VI-election</id>
+    <title>New VI election: Virgin Islands General Election</title>
+    <updated>2017-12-19T08:05:34.826835+00:00</updated>
+    <content>Visit https://when.vote/?VI to see election date and registration deadlines</content>
+    <link href="https://when.vote/?VI" rel="alternate"/>
+    <published>2017-12-19T08:05:34.826863+00:00</published>
+  </entry>
+</feed>
