@@ -1,0 +1,2043 @@
+{"data": [{
+    "app_url": "https://gsuite.google.com/marketplace/app/123rf_stock_photos/864884669800", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 38892, 
+    "dev_url": "http://www.123rf.com/", 
+    "app_name": "123RF Stock Photos", 
+    "dev_name": "123RF"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/123rf_stock_photos/952707226356", 
+    "status": "success", 
+    "user_count": 3137, 
+    "dev_url": "http://www.123rf.com/", 
+    "app_name": "123RF Stock Photos", 
+    "dev_name": "123RF", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "View and manage spreadsheets that this application has been installed in", 
+        "View and manage forms that this application has been installed in", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/aperture_by_palo_alto_networks_europe/276835114855", 
+    "status": "success", 
+    "user_count": 213477, 
+    "dev_url": "https://app.aperture-eu.paloaltonetworks.com/google_app_install", 
+    "app_name": "Prisma SaaS by Palo Alto Networks (Europe)", 
+    "dev_name": "app.aperture-eu.paloaltonetworks.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage its own configuration data in your Google Drive", 
+        "View your Google Drive apps", 
+        "View metadata for files in your Google Drive", 
+        "View audit reports for your G Suite domain", 
+        "View and manage group subscriptions on your domain", 
+        "View and manage the provisioning of groups on your domain", 
+        "View and manage the provisioning of users on your domain"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/archieml/989202173200", 
+    "status": "success", 
+    "user_count": 313, 
+    "dev_url": null, 
+    "app_name": "ArchieML", 
+    "dev_name": "jhuang", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/atsa_automated_telephonic_survey_app/555177363177", 
+    "status": "success", 
+    "user_count": 89, 
+    "dev_url": "http://umstechlabs.com/", 
+    "app_name": "ATSA- Automated Telephonic Survey App", 
+    "dev_name": "Products @ UMS Consultants", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/audiographs/1078303178825", 
+    "status": "success", 
+    "user_count": 853, 
+    "dev_url": null, 
+    "app_name": "Audiographs", 
+    "dev_name": "Andr\u00e9s Aparicio", 
+    "verified": false, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/bibleget_io/982049960887", 
+    "status": "success", 
+    "user_count": 9006, 
+    "dev_url": "http://www.bibleget.io/", 
+    "app_name": "BibleGet I/O", 
+    "dev_name": "john.dorazio", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "View and manage forms that this application has been installed in", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/blink_reports_for_xero/156208138543", 
+    "status": "success", 
+    "user_count": 263, 
+    "dev_url": "http://blinkreports.com/", 
+    "app_name": "Blink Reports for Xero", 
+    "dev_name": "InterlockIT", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/bologna_law_review/776084624773", 
+    "status": "success", 
+    "user_count": 2363, 
+    "dev_url": "https://d-asnaghi.github.io/Portfolio", 
+    "app_name": "Bologna Law Review", 
+    "dev_name": "Davide Asnaghi", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/bookeo_classes_and_courses/903742011539", 
+    "status": "success", 
+    "user_count": 40720, 
+    "dev_url": "https://www.bookeo.com/", 
+    "app_name": "Bookeo Classes and Courses", 
+    "dev_name": "Bookeo", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/brandfolder_for_slides/1054218752111", 
+    "status": "success", 
+    "user_count": 231, 
+    "dev_url": null, 
+    "app_name": "Brandfolder for Slides", 
+    "dev_name": "Brandfolder", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Slides presentations", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/brandsmill_bpaas/69126382520", 
+    "status": "success", 
+    "user_count": 5146, 
+    "dev_url": "https://www.linkedin.com/in/mjaeger", 
+    "app_name": "brandsmill BPaaS", 
+    "dev_name": "M.J\u00e4ger - Brand's Mill Germany", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "Manage your printers", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Manage drafts and send emails", 
+        "View and modify but not delete your email"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/budget_tracker/617710009945", 
+    "status": "success", 
+    "user_count": 167, 
+    "dev_url": "http://add-on.site/", 
+    "app_name": "Budget Tracker", 
+    "dev_name": "tad.e.smith", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/buzzybiz_survey/787086402518", 
+    "status": "success", 
+    "user_count": 1322, 
+    "dev_url": null, 
+    "app_name": "Buzzybiz Survey", 
+    "dev_name": "survey.buzzybiz.com", 
+    "verified": false, 
+    "permissions": [
+        "Manage your YouTube videos", 
+        "View your YouTube account", 
+        "Manage your YouTube account", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "Send email on your behalf"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/calcbench_xbrl_financial_data/702153274602", 
+    "status": "success", 
+    "user_count": 14, 
+    "dev_url": "https://www.calcbench.com/", 
+    "app_name": "Calcbench - XBRL Financial Data", 
+    "dev_name": "www.calcbench.com", 
+    "verified": false, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/cflow_workflow/943522611884", 
+    "status": "success", 
+    "user_count": 17148, 
+    "dev_url": null, 
+    "app_name": "Cflow - Workflow", 
+    "dev_name": "cavintek.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "View and manage group subscriptions on your domain", 
+        "View groups on your domain", 
+        "View and manage the provisioning of groups on your domain", 
+        "View users on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/change_document_text_colour/426145432872", 
+    "status": "success", 
+    "user_count": 282, 
+    "dev_url": "https://www.joelbalmer.life/", 
+    "app_name": "Change document text colour", 
+    "dev_name": "joel.balmer", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Slides presentations", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/chargify_sheets/292815749299", 
+    "status": "success", 
+    "user_count": 28, 
+    "dev_url": "http://www.advancearly.com/", 
+    "app_name": "Chargify Sheets", 
+    "dev_name": "Advancearly", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/charthop_sheets/397657075455", 
+    "status": "success", 
+    "user_count": 88, 
+    "dev_url": "http://charthop.com/", 
+    "app_name": "ChartHop Sheets", 
+    "dev_name": "ian", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/chemistry_question_generator/491882972606", 
+    "status": "success", 
+    "user_count": 112968, 
+    "dev_url": null, 
+    "app_name": "Chemistry Question Generator", 
+    "dev_name": "don.dyck", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/ckan_sheets_addon/202800146287", 
+    "status": "success", 
+    "user_count": 5, 
+    "dev_url": "http://evertpot.com/", 
+    "app_name": "CKAN sheets add-on", 
+    "dev_name": "evertpot.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/classroom_share/891096890441", 
+    "status": "success", 
+    "user_count": 58475, 
+    "dev_url": "https://www.claycodes.org/", 
+    "app_name": "Classroom Share", 
+    "dev_name": "claycodes.org", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "See, create, and edit topics in Google Classroom", 
+        "View and manage announcements in Google Classroom", 
+        "View and manage guardians for students in your Google Classroom classes", 
+        "Manage course work and grades for students in the Google Classroom classes you teach and view the course work and grades for classes you administer", 
+        "View the email addresses of people in your classes", 
+        "View the profile photos of people in your classes", 
+        "Manage your Google Classroom class rosters", 
+        "Manage your Google Classroom classes", 
+        "View and manage your forms in Google Drive", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/cloudstream_app/737240650353", 
+    "status": "success", 
+    "user_count": 9952, 
+    "dev_url": null, 
+    "app_name": "Cloudstream App", 
+    "dev_name": "thecloudstream.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete any of your Google Drive documents", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/connector_to_creatio/356018773553", 
+    "status": "success", 
+    "user_count": 89, 
+    "dev_url": null, 
+    "app_name": "Connector to Creatio", 
+    "dev_name": "a.struzhanskyi", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/copy_of_testcode/330420650824", 
+    "status": "success", 
+    "user_count": 1303, 
+    "dev_url": "https://script.google.com/macros/s/AKfycbyGLC2cVO5z_j7Q0DRit97d4UKk7CRj83Gc_084Q-uhV4cZ8VcB", 
+    "app_name": "Copy of testCode", 
+    "dev_name": "script.google.com/macros/s/AKfycbyGLC2cVO5z_j7Q0DRit97d4UKk7CRj83Gc_084Q-uhV4cZ8VcB", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/creative_commons_license_chooser/803008856330", 
+    "status": "success", 
+    "user_count": 7521, 
+    "dev_url": "https://github.com/brandonopened/creativecommons_gdocs/", 
+    "app_name": "Creative Commons License Chooser", 
+    "dev_name": "Brandon Dorman", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/cryptobalance/503777369822", 
+    "status": "success", 
+    "user_count": 90, 
+    "dev_url": null, 
+    "app_name": "CryptoBalance", 
+    "dev_name": "Nguyen Tran Ho Thanh Son", 
+    "verified": false, 
+    "permissions": [
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/cryptowallet/1052594582168", 
+    "status": "success", 
+    "user_count": 135, 
+    "dev_url": null, 
+    "app_name": "CRYPTOWALLET", 
+    "dev_name": "Luciano Giavedoni", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/cse_search/163723976462", 
+    "status": "success", 
+    "user_count": 13074, 
+    "dev_url": "http://jackcarey.co.uk/", 
+    "app_name": "CSE Search", 
+    "dev_name": "jackcarey", 
+    "verified": true, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/csv_sheet_importer/864153243687", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 72, 
+    "dev_url": null, 
+    "app_name": "CSV Sheet Importer", 
+    "dev_name": "First and Third"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%BE%D1%80_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_24/228224509548", 
+    "status": "success", 
+    "user_count": 60, 
+    "dev_url": "http://www.htmls.ru/", 
+    "app_name": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 24", 
+    "dev_name": "HTMLStudio", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/dimensions_api/771227310800", 
+    "status": "Message: Unable to locate element: .BfHp9b\n", 
+    "user_count": 0
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/directiq/4427607836", 
+    "status": "success", 
+    "user_count": 15874, 
+    "dev_url": "https://cloud.directiq.com/Integration/googleapps_oauth_callback.aspx", 
+    "app_name": "DirectIQ", 
+    "dev_name": "cloud.directiq.com/Integration/googleapps_oauth_callback.aspx", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/docx2latex/415272416461", 
+    "status": "success", 
+    "user_count": 49798, 
+    "dev_url": "https://www.docx2latex.com/", 
+    "app_name": "Docx2Latex", 
+    "dev_name": "docx2latex", 
+    "verified": true, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage your Google Docs documents", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/dooster/682004283824", 
+    "status": "success", 
+    "user_count": 59360, 
+    "dev_url": null, 
+    "app_name": "Dooster", 
+    "dev_name": "dooster.net", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/drive_watcher/486176815363", 
+    "status": "success", 
+    "user_count": 24653, 
+    "dev_url": "https://www.drivewatcherapp.com/", 
+    "app_name": "Drive Watcher", 
+    "dev_name": "Evenbytes", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "See and download your contacts", 
+        "Send email on your behalf", 
+        "View the activity history of your Google apps", 
+        "View and manage your forms in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/%E6%96%87%E4%BB%B6%E5%B0%8F%E5%B9%AB%E6%89%8B_20/172888154466", 
+    "status": "success", 
+    "user_count": 9557, 
+    "dev_url": "https://2blog.ilc.edu.tw/", 
+    "app_name": "\u6587\u4ef6\u5c0f\u5e6b\u624b 2.0", 
+    "dev_name": "kc", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/einstein_look_up_nonprofit_tax_data_by_e/804446241029", 
+    "status": "Message: Unable to locate element: .XfpsVe > div:nth-child(2) > span:nth-child(3) > span:nth-child(1)\n", 
+    "user_count": 329, 
+    "dev_url": null, 
+    "app_name": "EINstein: Look Up Non-Profit Tax Data by EIN", 
+    "dev_name": "drew"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/employee_onboarding_app/55865453655", 
+    "status": "success", 
+    "user_count": 511, 
+    "dev_url": "http://mangoblogger.com/", 
+    "app_name": "Employee Onboarding App", 
+    "dev_name": "MangoBlogger", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage the provisioning of users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "View and manage your Google Docs documents", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Edit Google Analytics management entities", 
+        "Manage Google Analytics Account users by email address", 
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/esna_cloudlink/347147346648", 
+    "status": "success", 
+    "user_count": 53684, 
+    "dev_url": null, 
+    "app_name": "Esna Cloudlink", 
+    "dev_name": "Esna Technologies", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "Manage your domain settings", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/esna_officelinx/703209360296", 
+    "status": "success", 
+    "user_count": 33394, 
+    "dev_url": null, 
+    "app_name": "Esna Officelinx", 
+    "dev_name": "www.esna.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "View and manage the provisioning of users on your domain", 
+        "Manage your domain settings", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/espeakers_event_questionnaire/459817427880", 
+    "status": "success", 
+    "user_count": 40, 
+    "dev_url": "https://www.espeakers.com/", 
+    "app_name": "eSpeakers Event Questionnaire", 
+    "dev_name": "eSpeakers Development", 
+    "verified": false, 
+    "permissions": [
+        "View and manage forms that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/ezshared_contacts/220045392708", 
+    "status": "success", 
+    "user_count": 48363, 
+    "dev_url": "http://www.cloud34.fr/", 
+    "app_name": "ezShared Contacts", 
+    "dev_name": "St3ph", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/faclair_na_sgoile/960075328260", 
+    "status": "success", 
+    "user_count": 0, 
+    "dev_url": null, 
+    "app_name": "Faclair na Sgoile", 
+    "dev_name": "donaldmacdonald", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/financesheets/739036233594", 
+    "status": "success", 
+    "user_count": 282, 
+    "dev_url": "http://financesheets.io/", 
+    "app_name": "FinanceSheets", 
+    "dev_name": "QuickFinance", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/financesheets_scoremeter/371103092987", 
+    "status": "success", 
+    "user_count": 280, 
+    "dev_url": null, 
+    "app_name": "FinanceSheets Score-meter", 
+    "dev_name": "QuickFinance", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/finup/466127998719", 
+    "status": "success", 
+    "user_count": 7, 
+    "dev_url": "http://nekrasovzevs.host/", 
+    "app_name": "FinUP", 
+    "dev_name": "nekrasovzevs", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/firmhouse_data_connection/247737889667", 
+    "status": "success", 
+    "user_count": 28, 
+    "dev_url": "http://firmhouse.com/", 
+    "app_name": "Firmhouse Data Connection", 
+    "dev_name": "Firmhouse", 
+    "verified": false, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/floating_apps_automagic_sync/578845312963", 
+    "status": "success", 
+    "user_count": 28352, 
+    "dev_url": null, 
+    "app_name": "Floating Apps AutoMagic Sync", 
+    "dev_name": "www.floatingapps.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/formulae/350853751070", 
+    "status": "success", 
+    "user_count": 1747, 
+    "dev_url": "http://officeappstore.in/", 
+    "app_name": "formulae", 
+    "dev_name": "officeappstore", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your forms in Google Drive", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/formulas_for_google_docs/159836395898", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 2692, 
+    "dev_url": null, 
+    "app_name": "Formulas for Google Docs", 
+    "dev_name": "MikaelMayer"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/freshdesk_gmail_gadget/287551691553", 
+    "status": "success", 
+    "user_count": 103201, 
+    "dev_url": null, 
+    "app_name": "Freshdesk Gmail Gadget", 
+    "dev_name": "freshdesk.com", 
+    "verified": false, 
+    "permissions": [
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Message Body using Gmail Contextual Gadget", 
+        "View Mail - Raw Subject Line using Gmail Contextual Gadget", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/fuzzyai/742439858985", 
+    "status": "success", 
+    "user_count": 939, 
+    "dev_url": null, 
+    "app_name": "Fuzzy.ai", 
+    "dev_name": "fuzzy.ai", 
+    "verified": false, 
+    "permissions": [
+        "Connect to an external service", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/ga_bulk_view_editor/756496665377", 
+    "status": "success", 
+    "user_count": 77, 
+    "dev_url": "http://3whitehats.com/", 
+    "app_name": "GA Bulk View Editor", 
+    "dev_name": "William Vicary", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Edit Google Analytics management entities", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/ga_campaign_url/874006276103", 
+    "status": "success", 
+    "user_count": 621, 
+    "dev_url": "http://www.outfox.com/", 
+    "app_name": "GA Campaign URL", 
+    "dev_name": "Outfox", 
+    "verified": false, 
+    "permissions": [
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/get_english/830415053785", 
+    "status": "success", 
+    "user_count": 1926, 
+    "dev_url": null, 
+    "app_name": "Get English", 
+    "dev_name": "Yascob", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/glue_word_finder/295291845080", 
+    "status": "success", 
+    "user_count": 3735, 
+    "dev_url": null, 
+    "app_name": "Glue Word Finder", 
+    "dev_name": "Hazel Domain", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/google_form_for_missions/394197296332", 
+    "status": "success", 
+    "user_count": 723, 
+    "dev_url": "http://missions.ai/", 
+    "app_name": "Google Form for Missions", 
+    "dev_name": "Missions.ai", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/gunify_gmail_connector/535820823946", 
+    "status": "success", 
+    "user_count": 2958, 
+    "dev_url": null, 
+    "app_name": "gUnify Gmail Connector", 
+    "dev_name": "ucb.gunify.com", 
+    "verified": false, 
+    "permissions": [
+        "View Mail - BCC Names using Gmail Contextual Gadget", 
+        "View Mail - BCC Addresses using Gmail Contextual Gadget", 
+        "View Mail - CC Recipient Names using Gmail Contextual Gadget", 
+        "View Mail - CC Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Sender Name using Gmail Contextual Gadget", 
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Names using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Message Ids using Gmail Contextual Gadget", 
+        "View Mail - Message Body using Gmail Contextual Gadget", 
+        "View Mail - Subject Line using Gmail Contextual Gadget", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "View your calendars", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "View and send chat messages"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/hippo_video/989612280692", 
+    "status": "success", 
+    "user_count": 101162, 
+    "dev_url": "https://www.hippovideo.io/", 
+    "app_name": "Hippo Video", 
+    "dev_name": "www.hippovideo.io", 
+    "verified": false, 
+    "permissions": [
+        "View your email messages and settings", 
+        "Send email on your behalf", 
+        "See and download all your Google Drive files", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "View users on your domain", 
+        "See and download your contacts", 
+        "View your calendars"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/holistics_data_reporting/717468166706", 
+    "status": "success", 
+    "user_count": 305, 
+    "dev_url": "https://www.holistics.io/", 
+    "app_name": "Holistics Data Reporting", 
+    "dev_name": "Holistics Software", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "View metadata for files in your Google Drive", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "See, edit, create, and delete your spreadsheets in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/inactiveuserinventory/718809722883", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 897809, 
+    "dev_url": null, 
+    "app_name": "inactiveUserInventory", 
+    "dev_name": "New Visions Cloudlab"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/inbound_ivr_virtual_epabx/914982409431", 
+    "status": "success", 
+    "user_count": 998, 
+    "dev_url": "http://umstechlabs.com/", 
+    "app_name": "Inbound IVR (Virtual EPABX)", 
+    "dev_name": "Products @ UMS Consultants", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/java_translations_tool/262006827050", 
+    "status": "success", 
+    "user_count": 58, 
+    "dev_url": "https://www.want.ch/", 
+    "app_name": "Java Translations Tool", 
+    "dev_name": "simon.niederberger", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/jg_utils/522248414220", 
+    "status": "success", 
+    "user_count": 21, 
+    "dev_url": "http://door2info.blogspot.com/", 
+    "app_name": "JG Utils", 
+    "dev_name": "Abid Akram", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/keenious/697734651879", 
+    "status": "success", 
+    "user_count": 1875, 
+    "dev_url": "http://keenious.com/", 
+    "app_name": "Keenious", 
+    "dev_name": "Keenious", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/kio_link/354461832337", 
+    "status": "success", 
+    "user_count": 2770, 
+    "dev_url": "https://kiolink.kioapps.com/", 
+    "app_name": "KIO Link", 
+    "dev_name": "kiolink.kioapps.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/labelizer/630638567939", 
+    "status": "success", 
+    "user_count": 54952, 
+    "dev_url": "https://labelizer.cenarion.com/", 
+    "app_name": "Labelizer", 
+    "dev_name": "labelizer.cenarion.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "View and modify but not delete your email", 
+        "View your installed application's licensing information", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/lazysecretary/154771886030", 
+    "status": "success", 
+    "user_count": 27294, 
+    "dev_url": null, 
+    "app_name": "LazySecretary", 
+    "dev_name": "educabily.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View group subscriptions on your domain", 
+        "View and manage group subscriptions on your domain", 
+        "View and manage organization units on your domain", 
+        "View groups on your domain", 
+        "View and manage the provisioning of groups on your domain", 
+        "View users on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "View and manage the settings of a G Suite group", 
+        "See, edit, create, and delete your spreadsheets in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/lesson_plan_submit/525347207656", 
+    "status": "success", 
+    "user_count": 306859, 
+    "dev_url": null, 
+    "app_name": "Lesson Plan Submit", 
+    "dev_name": "Memphis Teacher Residency", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See, edit, download, and permanently delete your contacts", 
+        "View and manage your Google Docs documents", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/linkedin_portfolio_website/91917804441", 
+    "status": "success", 
+    "user_count": 2492, 
+    "dev_url": "https://johannroehl.de/", 
+    "app_name": "Linkedin Portfolio Website", 
+    "dev_name": "jr development", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage spreadsheets that this application has been installed in", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/localfinance/843180848637", 
+    "status": "success", 
+    "user_count": 49, 
+    "dev_url": null, 
+    "app_name": "LOCALFINANCE", 
+    "dev_name": "emilioss", 
+    "verified": false, 
+    "permissions": [
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/magic_exercise_book/734051135895", 
+    "status": "Message: Unable to locate element: .tgnCOd\n", 
+    "user_count": 26489, 
+    "dev_url": "https://sites.google.com/view/notsomagicapps", 
+    "app_name": "Magic Exercise Book", 
+    "dev_name": "Not so Magic Apps"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/mail_macher/1071039683882", 
+    "status": "success", 
+    "user_count": 6371, 
+    "dev_url": null, 
+    "app_name": "Mail Macher", 
+    "dev_name": "mailmacher.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/markdown_sidebar/527924078031", 
+    "status": "success", 
+    "user_count": 480, 
+    "dev_url": "https://tomberek.info/", 
+    "app_name": "Markdown Sidebar", 
+    "dev_name": "tomberek", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/market_intelligence_stock_dividends/624491738052", 
+    "status": "success", 
+    "user_count": 6, 
+    "dev_url": null, 
+    "app_name": "Market Intelligence | Stock Dividends", 
+    "dev_name": "Market Intelligence", 
+    "verified": false, 
+    "permissions": [
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/markets4sheets/551807321831", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 37, 
+    "dev_url": null, 
+    "app_name": "Markets4Sheets", 
+    "dev_name": "Matias Rivera"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/messari/75755593593", 
+    "status": "success", 
+    "user_count": 0, 
+    "dev_url": null, 
+    "app_name": "Messari", 
+    "dev_name": "qiao", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/methodcrm/372882561841", 
+    "status": "success", 
+    "user_count": 8736, 
+    "dev_url": "https://www.methodintegration.com/", 
+    "app_name": "Method", 
+    "dev_name": "www.methodintegration.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "View Mail - Sender Name using Gmail Contextual Gadget", 
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Names using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Message Ids using Gmail Contextual Gadget", 
+        "View Mail - Message Body using Gmail Contextual Gadget", 
+        "View Mail - Subject Line using Gmail Contextual Gadget", 
+        "See, edit, download, and permanently delete your contacts", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/midas/419441983358", 
+    "status": "success", 
+    "user_count": 70, 
+    "dev_url": "http://midasproject.org/", 
+    "app_name": "Midas", 
+    "dev_name": "Samir Rayani", 
+    "verified": false, 
+    "permissions": [
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/minicrm/53522839483", 
+    "status": "success", 
+    "user_count": 4207, 
+    "dev_url": null, 
+    "app_name": "MiniCRM", 
+    "dev_name": "minicrm.io", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View Mail - Sender Name using Gmail Contextual Gadget", 
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Names using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Message Ids using Gmail Contextual Gadget", 
+        "View Mail - Message Body using Gmail Contextual Gadget", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/minuteworx/310960391381", 
+    "status": "success", 
+    "user_count": 57130, 
+    "dev_url": null, 
+    "app_name": "MinuteWorx", 
+    "dev_name": "www.minuteworx.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/naavi_inewsletter/876214488955", 
+    "status": "success", 
+    "user_count": 6628, 
+    "dev_url": null, 
+    "app_name": "Naavi iNewsletter", 
+    "dev_name": "inewsletter.co", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/naos_assets/452032021379", 
+    "status": "success", 
+    "user_count": 2303, 
+    "dev_url": "https://n6.n-aos.com/", 
+    "app_name": "n-aos Assets", 
+    "dev_name": "n6.n-aos.com", 
+    "verified": false, 
+    "permissions": [
+        "View your email messages and settings", 
+        "Send email on your behalf", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/naos_low_code_development_platform/128083201635", 
+    "status": "success", 
+    "user_count": 419, 
+    "dev_url": "https://n6.n-aos.com/", 
+    "app_name": "n-aos Low Code Development Platform", 
+    "dev_name": "n6.n-aos.com", 
+    "verified": false, 
+    "permissions": [
+        "View your email messages and settings", 
+        "Send email on your behalf", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/nbrbrates/898701910474", 
+    "status": "success", 
+    "user_count": 2, 
+    "dev_url": null, 
+    "app_name": "NBRBRates", 
+    "dev_name": "Valery Leontyev", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/next_generation_label_printing/28738788031", 
+    "status": "Message: Unable to locate element: .XfpsVe > div:nth-child(2) > span:nth-child(3) > span:nth-child(1)\n", 
+    "user_count": 190165, 
+    "dev_url": "https://lpsng.rsj.de/", 
+    "app_name": "Next Generation Label Printing", 
+    "dev_name": "rue1401"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/nimble_crm/597418090349", 
+    "status": "success", 
+    "user_count": 19755, 
+    "dev_url": null, 
+    "app_name": "Nimble CRM", 
+    "dev_name": "nimble.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View your installed application's licensing information", 
+        "View and manage organization units on your domain", 
+        "View and manage G Suite licenses for your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "Manage your domain settings", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/notion_addon_for_google_sheets/787971560208", 
+    "status": "success", 
+    "user_count": 1925, 
+    "dev_url": "http://usenotion.com/", 
+    "app_name": "Notion Add-on for Google Sheets", 
+    "dev_name": "Jama Software", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/oauth2credentialguglooews/443638764040", 
+    "status": "success", 
+    "user_count": 2663, 
+    "dev_url": null, 
+    "app_name": "OAuth2CredentialGuglooeWS", 
+    "dev_name": "gagan", 
+    "verified": false, 
+    "permissions": [
+        "View your calendars"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/ofspillen/2547100063", 
+    "status": "success", 
+    "user_count": 2, 
+    "dev_url": null, 
+    "app_name": "ofspillen", 
+    "dev_name": "peter.gilles", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/organization_units_by_megazone/965815600845", 
+    "status": "success", 
+    "user_count": 5713, 
+    "dev_url": null, 
+    "app_name": "Organization Units by Megazone", 
+    "dev_name": "megazone-organization.appspot.com", 
+    "verified": false, 
+    "permissions": [
+        "View your installed application's licensing information", 
+        "View user schemas on your domain", 
+        "View and manage the provisioning of user schemas on your domain", 
+        "View organization units on your domain", 
+        "View and manage organization units on your domain", 
+        "View users on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "Manage your domain settings"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/oudercontacten/693604902231", 
+    "status": "Message: Unable to locate element: .tgnCOd\n", 
+    "user_count": 7986, 
+    "dev_url": "https://sites.google.com/sgfv.be/oudercontactenadd-on/", 
+    "app_name": "Oudercontacten", 
+    "dev_name": "Jasper Cuvelier"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/output_time/326754158798", 
+    "status": "success", 
+    "user_count": 2846, 
+    "dev_url": null, 
+    "app_name": "Output Time", 
+    "dev_name": "www.outputtime.com", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "View users on your domain", 
+        "See and download your contacts"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/paperpusher/567905695541", 
+    "status": "success", 
+    "user_count": 195, 
+    "dev_url": "http://positsum.com/", 
+    "app_name": "Paperpusher", 
+    "dev_name": "paperpusher-add-on-development", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage your Google Docs documents", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "View and manage your forms in Google Drive", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/paralleldots_apis/729052469457", 
+    "status": "success", 
+    "user_count": 123, 
+    "dev_url": null, 
+    "app_name": "ParallelDots APIs", 
+    "dev_name": "ParallelDots", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/patternchain/14787940373", 
+    "status": "success", 
+    "user_count": 538, 
+    "dev_url": "http://patternchain.com/", 
+    "app_name": "Patternchain", 
+    "dev_name": "Leo", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "View and manage spreadsheets that this application has been installed in", 
+        "View and manage forms that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/pecal/244573931261", 
+    "status": "success", 
+    "user_count": 3471, 
+    "dev_url": "https://www.sheranton.co.za/", 
+    "app_name": "PECal", 
+    "dev_name": "Sheranton", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/perfode_ereviewz/921361231662", 
+    "status": "success", 
+    "user_count": 13123, 
+    "dev_url": "http://perfode.com/", 
+    "app_name": "Perfode eReviewz", 
+    "dev_name": "Perfode eReviewz", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/planio/1021821981627", 
+    "status": "success", 
+    "user_count": 5261, 
+    "dev_url": "https://plan.io/", 
+    "app_name": "Planio", 
+    "dev_name": "Planio", 
+    "verified": false, 
+    "permissions": [
+        "See and download all your Google Drive files", 
+        "Add itself to Google Drive", 
+        "View and manage Google Drive files and folders that you have opened or created with this app", 
+        "View users on your domain"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/proprofs_knowledgebase/91860865472", 
+    "status": "success", 
+    "user_count": 343085, 
+    "dev_url": "https://www.proprofs.com/knowledgebase", 
+    "app_name": "ProProfs Knowledgebase", 
+    "dev_name": "sameer.b", 
+    "verified": false, 
+    "permissions": [
+        "View your calendars"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/questionnaire_author/647133193816", 
+    "status": "success", 
+    "user_count": 3618, 
+    "dev_url": null, 
+    "app_name": "Questionnaire Author", 
+    "dev_name": "Abhinav Tripathi", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View and manage your Google Docs documents", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "View and manage your forms in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/quickbooks_connect/373457065729", 
+    "status": "success", 
+    "user_count": 783, 
+    "dev_url": "https://boopis.com/", 
+    "app_name": "Quickbooks Connect", 
+    "dev_name": "Boopis Media", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/quick_character/1009114380263", 
+    "status": "success", 
+    "user_count": 2538, 
+    "dev_url": "http://wallach.netsoc.ie/", 
+    "app_name": "Quick Character", 
+    "dev_name": "wallacehelen7", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/quick_pic/852160844413", 
+    "status": "success", 
+    "user_count": 26, 
+    "dev_url": "https://quick-pic.net/", 
+    "app_name": "Quick Pic", 
+    "dev_name": "devericx", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/refresh_charts_button/292315997402", 
+    "status": "success", 
+    "user_count": 6, 
+    "dev_url": "https://www.paldi.solutions/", 
+    "app_name": "Refresh Charts Button", 
+    "dev_name": "Paldi Solutions", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Slides presentations", 
+        "View your Google Spreadsheets"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/reports_for_work/153094958125", 
+    "status": "success", 
+    "user_count": 22879, 
+    "dev_url": null, 
+    "app_name": "Reports for Work", 
+    "dev_name": "reportsforwork.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/rostersync_teacher_edition/732416499148", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 124434, 
+    "dev_url": null, 
+    "app_name": "rosterSync - Teacher Edition", 
+    "dev_name": "New Visions Cloudlab"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/samanage_it_asset_management/610957804982", 
+    "status": "success", 
+    "user_count": 41361, 
+    "dev_url": "https://www.samanage.com/", 
+    "app_name": "Samanage IT asset Management", 
+    "dev_name": "www.samanage.com", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/sapenta/709090450449", 
+    "status": "success", 
+    "user_count": 2874, 
+    "dev_url": "https://my.sapenta.com/", 
+    "app_name": "Sapenta", 
+    "dev_name": "my.sapenta.com", 
+    "verified": false, 
+    "permissions": [
+        "Manage your goo.gl short URLs", 
+        "Manage your activity in Google Moderator", 
+        "View your calendars", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Manage your books", 
+        "View your Google Analytics data", 
+        "Create, edit, organize, and delete all your tasks", 
+        "Manage the list of sites and domains you control"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/sefaria_library/947071438143", 
+    "status": "success", 
+    "user_count": 17572, 
+    "dev_url": null, 
+    "app_name": "Sefaria Library", 
+    "dev_name": "Shlomi Helfgot", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/share_link_converter/517582469002", 
+    "status": "success", 
+    "user_count": 23, 
+    "dev_url": "http://ejlalkh.com/", 
+    "app_name": "Share Link Converter", 
+    "dev_name": "Ejlal", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "View and manage forms that this application has been installed in", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/side_dictionary_app/94679939862", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 12556, 
+    "dev_url": "http://sidedictionaryapp.com/", 
+    "app_name": "Side Dictionary App", 
+    "dev_name": "Joey Bronner"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/side_study_for_teachers/1063155492365", 
+    "status": "success", 
+    "user_count": 54008, 
+    "dev_url": "http://activelearningworks.com/", 
+    "app_name": "Side Study for Teachers", 
+    "dev_name": "jason", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View your Google Drive apps", 
+        "View and manage your Google Docs documents", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/simple_recruitment_manager/333615037542", 
+    "status": "success", 
+    "user_count": 34, 
+    "dev_url": null, 
+    "app_name": "Simple Recruitment Manager", 
+    "dev_name": "harnoor", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/sitemaestro/757693139577", 
+    "status": "success", 
+    "user_count": 786611, 
+    "dev_url": null, 
+    "app_name": "siteMaestro", 
+    "dev_name": "New Visions Cloudlab", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View your Google Drive apps", 
+        "Manage your sites", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Allow this application to run when you are not present", 
+        "View and manage data associated with the application", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/slack_notifier/101055154035", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 3847, 
+    "dev_url": null, 
+    "app_name": "Slack Notifier", 
+    "dev_name": "butukura developer"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/slide_object_order/301515007578", 
+    "status": "success", 
+    "user_count": 339, 
+    "dev_url": "http://claycodes.org/", 
+    "app_name": "Slide Object Order", 
+    "dev_name": "Clay", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Slides presentations", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/spreadsheet2qif/501277153442", 
+    "status": "success", 
+    "user_count": 61, 
+    "dev_url": null, 
+    "app_name": "Spreadsheet2qif", 
+    "dev_name": "boxincarton", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/spreadsheet_regressionsgerade/672872018564", 
+    "status": "success", 
+    "user_count": 9, 
+    "dev_url": null, 
+    "app_name": "Spreadsheet Regressionsgerade", 
+    "dev_name": "jonathan.kinzel", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/stava_rex/342809755787", 
+    "status": "success", 
+    "user_count": 1377901, 
+    "dev_url": "https://oribisoftware.com/", 
+    "app_name": "Stava Rex", 
+    "dev_name": "Oribi AB", 
+    "verified": true, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/tablao/285987513149", 
+    "status": "success", 
+    "user_count": 21, 
+    "dev_url": "http://rockiger.com/", 
+    "app_name": "Tablao", 
+    "dev_name": "rockiger", 
+    "verified": false, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/teamlearn/41043989218", 
+    "status": "success", 
+    "user_count": 6178, 
+    "dev_url": "http://teamlearn.org/", 
+    "app_name": "TeamLearn", 
+    "dev_name": "newschool as", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "Add itself to Google Drive", 
+        "View the activity history of your Google apps"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/teamsnap_assistant/669339850183", 
+    "status": "success", 
+    "user_count": 37, 
+    "dev_url": null, 
+    "app_name": "TeamSnap Assistant", 
+    "dev_name": "DP Development", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your forms in Google Drive", 
+        "Connect to an external service", 
+        "Send email as you", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/teamworkcom/347844833129", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 549183, 
+    "dev_url": null, 
+    "app_name": "Teamwork.com", 
+    "dev_name": "www.teamwork.com"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/text_to_todoist/618192615172", 
+    "status": "success", 
+    "user_count": 14489, 
+    "dev_url": "http://mmaluff.com/", 
+    "app_name": "Text to Todoist", 
+    "dev_name": "mmaluff", 
+    "verified": false, 
+    "permissions": [
+        "View and manage your Google Docs documents", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/time_doctor/555601194439", 
+    "status": "success", 
+    "user_count": 1748, 
+    "dev_url": "https://www.timedoctor.com/", 
+    "app_name": "Time Doctor", 
+    "dev_name": "www.timedoctor.com", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Create, edit, organize, and delete all your tasks"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/trippeo/374673956919", 
+    "status": "success", 
+    "user_count": 1498, 
+    "dev_url": null, 
+    "app_name": "Trippeo", 
+    "dev_name": "trippeo.com", 
+    "verified": false, 
+    "permissions": [
+        "View organization units on your domain", 
+        "View users on your domain", 
+        "Manage your domain settings", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/turning_cloud_sso/510905372382", 
+    "status": "success", 
+    "user_count": 10717, 
+    "dev_url": null, 
+    "app_name": "Turning Cloud SSO", 
+    "dev_name": "turningcloud.com", 
+    "verified": false, 
+    "permissions": [
+        "View organization units on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "Manage your domain settings"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/unc/1001155538010", 
+    "status": "success", 
+    "user_count": 0, 
+    "dev_url": "http://caenrigen.tech/", 
+    "app_name": "UNC", 
+    "dev_name": "caenrigen", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete your spreadsheets in Google Drive"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/uncle_bill_prod/139106214226", 
+    "status": "success", 
+    "user_count": 26, 
+    "dev_url": null, 
+    "app_name": "Uncle Bill Prod", 
+    "dev_name": "Loadsmart Inc", 
+    "verified": false, 
+    "permissions": [
+        "View and manage spreadsheets that this application has been installed in", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "Connect to an external service", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/upsafe/16960867367", 
+    "status": "success", 
+    "user_count": 22513, 
+    "dev_url": null, 
+    "app_name": "UpSafe", 
+    "dev_name": "upsafe.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View delegated admin roles for your domain", 
+        "View domains related to your customers", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/viewpath_pm/259122409285", 
+    "status": "success", 
+    "user_count": 108296, 
+    "dev_url": null, 
+    "app_name": "Viewpath PM", 
+    "dev_name": "www.viewpath.com", 
+    "verified": false, 
+    "permissions": [
+        "See and download your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/voyager/887318998828", 
+    "status": "success", 
+    "user_count": 716, 
+    "dev_url": null, 
+    "app_name": "Voyager", 
+    "dev_name": "okroger.ai", 
+    "verified": false, 
+    "permissions": [
+        "View users on your domain", 
+        "View your calendars"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/vtiger/572069602617", 
+    "status": "success", 
+    "user_count": 8197, 
+    "dev_url": "https://www.vtiger.com/", 
+    "app_name": "Vtiger", 
+    "dev_name": "www.vtiger.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/waive_me/456196127594", 
+    "status": "success", 
+    "user_count": 737, 
+    "dev_url": null, 
+    "app_name": "Waive Me!", 
+    "dev_name": "waiveme.com", 
+    "verified": false, 
+    "permissions": [
+        "View and manage the provisioning of groups on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "View and manage Google Drive files and folders that you have opened or created with this app"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/worketc/441734354933", 
+    "status": "success", 
+    "user_count": 23145, 
+    "dev_url": "https://www.worketc.com/", 
+    "app_name": "WORKetc", 
+    "dev_name": "www.worketc.com", 
+    "verified": false, 
+    "permissions": [
+        "Read, compose, send, and permanently delete all your email from Gmail", 
+        "See, edit, create, and delete all of your Google Drive files", 
+        "See and download all of your Google Account email addresses", 
+        "View Mail - CC Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Sender Name using Gmail Contextual Gadget", 
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Message Ids using Gmail Contextual Gadget", 
+        "View Mail - Message Body using Gmail Contextual Gadget", 
+        "View Mail - Subject Line using Gmail Contextual Gadget", 
+        "View users on your domain", 
+        "See, edit, download, and permanently delete your contacts", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/world_bank_data_explorer/600889097", 
+    "status": "Message: Unable to locate element: .XfpsVe > div:nth-child(2) > span:nth-child(3) > span:nth-child(1)\n", 
+    "user_count": 2065, 
+    "dev_url": null, 
+    "app_name": "World Bank Data Explorer", 
+    "dev_name": "spencerjmize"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/writeclearly/28387801957", 
+    "status": "success", 
+    "user_count": 16660, 
+    "dev_url": null, 
+    "app_name": "WriteClearly", 
+    "dev_name": "OpenAdvocate", 
+    "verified": false, 
+    "permissions": [
+        "View and manage documents that this application has been installed in", 
+        "Connect to an external service", 
+        "Allow this application to run when you are not present", 
+        "Display and run third-party web content in prompts and sidebars inside Google applications"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/xinox_docs/8678007835", 
+    "status": "success", 
+    "user_count": 1967, 
+    "dev_url": null, 
+    "app_name": "Xinox Docs", 
+    "dev_name": "xinox-apps.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View audit reports for your G Suite domain", 
+        "View groups on your domain", 
+        "View and manage the provisioning of users on your domain", 
+        "See, edit, create, and delete your spreadsheets in Google Drive", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/youcanbookme/1046997787179", 
+    "status": "success", 
+    "user_count": 2062474, 
+    "dev_url": null, 
+    "app_name": "YouCanBook.me", 
+    "dev_name": "youcanbook.me", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar"
+    ]
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/zoho_books/932402265855", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 103731, 
+    "dev_url": "https://zoho.com/", 
+    "app_name": "Zoho Books", 
+    "dev_name": "zoho.com"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/zoho_contactmanager/137478668920", 
+    "status": "Sign in with Google temporarily disabled for this app", 
+    "user_count": 34768, 
+    "dev_url": "https://zoho.com/", 
+    "app_name": "Zoho ContactManager", 
+    "dev_name": "zoho.com"
+},
+{
+    "app_url": "https://gsuite.google.com/marketplace/app/zoho_projects/119811933890", 
+    "status": "success", 
+    "user_count": 789763, 
+    "dev_url": null, 
+    "app_name": "Zoho Projects", 
+    "dev_name": "zoho.com", 
+    "verified": false, 
+    "permissions": [
+        "See, edit, create, and delete all of your Google Drive files", 
+        "View Mail - Sender Address using Gmail Contextual Gadget", 
+        "View Mail - To Recipient Addresses using Gmail Contextual Gadget", 
+        "View Mail - Subject Line using Gmail Contextual Gadget", 
+        "View users on your domain", 
+        "See, edit, share, and permanently delete all the calendars you can access using Google Calendar", 
+        "Create, edit, organize, and delete all your tasks"
+    ]
+}]}
+
