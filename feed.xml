@@ -1,13 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/public/stylesheets/bs.css">
+    <link rel="stylesheet" href="/public/stylesheets/styles.css">
+    <link rel="stylesheet" href="/public/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="canonical" href="https://irwinreyes.com/feed.xml">
+      <link rel="icon" type="image/x-icon"  href="/favicon.ico" />
+    <title>Irwin Reyes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+        <section>
+          <div id="header">
+  <h1>
+    <a id="sitename" href="https://irwinreyes.com">Irwin Reyes</a>
+  </h1>
+
+  <!-- Add something about you in p tag-->
+  <p></p>
+  <hr/>
+
+  <span class="credits pull-left">
+    
+  </span>
+
+  <span class="credits pull-right social">
+    
+      
+        <a href="https://twitter.com/irwinreyescom" target="_blank"><i class="fa fa-twitter"></i></a>
+      
+    
+      
+        <a href="https://github.com/io-reyes" target="_blank"><i class="fa fa-github"></i></a>
+      
+    
+  </span>
+
+
+</div>
+
+
+          <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Irwin Reyes</title>
     <description></description>
     <link>https://irwinreyes.com/</link>
     <atom:link href="https://irwinreyes.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 May 2020 13:18:51 -0400</pubDate>
-    <lastBuildDate>Sun, 24 May 2020 13:18:51 -0400</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Fri, 29 May 2020 10:23:34 -0400</pubDate>
+    <lastBuildDate>Fri, 29 May 2020 10:23:34 -0400</lastBuildDate>
+    <generator>Jekyll v4.1.0</generator>
     
   </channel>
 </rss>
+
+
+          <div id="footer">
+<hr/>
+  <div class="pull-left">
+    &copy;2020.
+    Built with <a href="http://jekyllrb.com/">Jekyll</a> and
+    <a href="https://github.com/kirqe/autm-rb">Autm-rb</a>
+  </div>
+
+  <div class="pull-right">
+    <span class="credits pull-right social">
+      
+        
+          <a href="https://twitter.com/irwinreyescom" target="_blank"><i class="fa fa-twitter"></i></a>
+        
+      
+        
+          <a href="https://github.com/io-reyes" target="_blank"><i class="fa fa-github"></i></a>
+        
+      
+    </span>
+  </div>
+</div>
+
+        </section>
+    </div>
+    </div>
+  </body>
+</html>
